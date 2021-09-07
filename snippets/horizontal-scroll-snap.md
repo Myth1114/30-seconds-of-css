@@ -39,7 +39,7 @@ Creates a horizontally scrollable container that will snap on elements when scro
   scroll-snap-type: x mandatory;
 }
 
-//custom scrollbar
+/*custom scrollbar*/
 .horizontal-snap::-webkit-scrollbar {
   width: 5px;
   height: 5px;
